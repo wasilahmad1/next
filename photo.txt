@@ -1,4 +1,4 @@
-first step inilizating file and push it in git hub
+ 1.first step inilizating file and push it in git hub
 
 
 
@@ -7,5 +7,10 @@ making changes in the file and then staging,commit ,push
 
 trial second 
 
+<<<<<<< HEAD
 
 updating and making changes only on main
+=======
+2.creating branch name feature branch
+  making changes in branch and reflecting it first on branch only
+>>>>>>> feature-branch
