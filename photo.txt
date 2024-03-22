@@ -8,4 +8,11 @@ making changes in the file and then staging,commit ,push
 trial second 
 
 
-updating and making changes only on main
+updating and making changes only on 
+
+
+
+making 2nd branch and making change then staging 
+                                         commit
+                                         push
+                                         on git hub
