@@ -8,3 +8,4 @@ making changes in the file and then staging,commit ,push
 trial second 
 
 2.creating branch name feature branch
+  making changes in branch and reflecting it first on branch only
