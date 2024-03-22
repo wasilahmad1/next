@@ -6,3 +6,6 @@ first step inilizating file and push it in git hub
 making changes in the file and then staging,commit ,push
 
 trial second 
+
+
+updating and making changes only on main
