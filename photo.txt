@@ -1,4 +1,4 @@
-first step inilizating file and push it in git hub
+ 1.first step inilizating file and push it in git hub
 
 
 
@@ -6,3 +6,5 @@ first step inilizating file and push it in git hub
 making changes in the file and then staging,commit ,push
 
 trial second 
+
+2.creating branch name feature branch
